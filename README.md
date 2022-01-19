@@ -13,17 +13,12 @@ Front App --> 'front'
 
 
 # Tools
-Java 1.8
-
-Spring 5
-
-MySQL 
-
-Angular 11
-
-NPM 6.14
-
-Node v10.19
+- Java 1.8
+- Spring 5
+- MySQL 
+- Angular 11
+- NPM 6.14
+- Node v10.19
 
 
 
@@ -48,9 +43,9 @@ Runs on http://localhost:8080/
 
 Endpoints:
 
-	http://localhost:8080/api/results
+	- http://localhost:8080/api/results
 	
-	http://localhost:8080/api/save
+	- http://localhost:8080/api/save
 
 
 
