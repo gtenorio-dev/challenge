@@ -1,0 +1,21 @@
+<div class="container mx text-center">
+  <form (ngSubmit)="saveAnagrams()">
+    <div class="my-3 text-center">
+      <div>
+        <h4 class="my-3">Insert words</h4>
+      </div>
+      <div class="my-5">
+        <input
+          type="text"
+          class="form-control input-size"
+          placeholder="Example: reward,redraw,drawer"
+          [(ngModel)]="words"
+          name="words"
+        />
+      </div>
+    </div>
+    <div class="my-3 mx-auto">
+      <button class="btn btn-success btn-size" role="button">Save</button>
+    </div>
+  </form>
+</div>

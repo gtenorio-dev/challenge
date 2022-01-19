@@ -1,0 +1,12 @@
+CREATE DATABASE neginet_db;
+
+USE neginet_db;
+
+
+CREATE TABLE anagrams
+(
+ id      int NOT NULL AUTO_INCREMENT,
+ results text NOT NULL ,
+
+PRIMARY KEY (id)
+);
