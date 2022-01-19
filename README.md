@@ -47,7 +47,9 @@ Project --> Run As --> Spring Boot App
 Runs on http://localhost:8080/
 
 Endpoints:
+
 	http://localhost:8080/api/results
+	
 	http://localhost:8080/api/save
 
 
