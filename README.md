@@ -14,10 +14,15 @@ Front App --> 'front'
 
 # Tools
 Java 1.8
+
 Spring 5
+
 MySQL 
+
 Angular 11
+
 NPM 6.14
+
 Node v10.19
 
 
