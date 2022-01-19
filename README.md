@@ -2,7 +2,7 @@
 Anagram Challenge 
 
 
-#Folders
+# Folders
 
 Rest Service --> 'back'
 
@@ -12,7 +12,7 @@ Front App --> 'front'
 
 
 
-#Tools
+# Tools
 Java 1.8
 Spring 5
 MySQL 
@@ -22,16 +22,16 @@ Node v10.19
 
 
 
-#JDK
+# JDK
 1.8.0_271
 
 
-#DB
+# DB
 Create Data Base with "/db/anagram_db.txt" file.
 
 
 
-#Run Back
+# Run Back
 
 Import as maven project from "/back/anagram/"
 
@@ -47,7 +47,7 @@ Endpoints:
 
 
 
-#Run Front
+# Run Front
 
 Move to /front/anagram-app/
 
