@@ -1,4 +1,4 @@
-# neginet_challenge
+# Challenge
 Anagram Challenge 
 
 
